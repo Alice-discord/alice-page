@@ -118,6 +118,45 @@ overflow-x: hidden;
     justify-content: space-between;
 }
 
+.li-spn-fon-prip {
+  line-height:115%;
+  font-family:"Courier New";
+  font-size:11px;
+}
+
+.para-fon-prip {
+  margin-top:0in;
+  margin-right:0in;
+  margin-bottom:8.0pt;
+  margin-left:0in;
+  line-height:115%;
+  font-size:16px;
+  font-family:"Aptos",sans-serif;
+}
+
+.para-fon-spn-prip {
+  font-size:11px;
+  line-height:115%;
+  font-family:"Courier New";
+}
+
+.texta-fon-tos {
+  margin-top:0in;
+  margin-right:0in;
+  margin-bottom:8.0pt;
+  margin-left:0in;
+  line-height:115%;
+  font-size:16px;
+  font-family:"Aptos",sans-serif;
+  text-align:left;
+}
+
+.texta-fon-spn-tos {
+font-size:11px;
+line-height:115%;
+font-family:"Courier New";
+}
+
 .textarea-example-images{
     width:28vw;
     overflow:hidden;
@@ -149,7 +188,7 @@ overflow-x: hidden;
      right: 2vw;
      border-radius: 50px;
   }
-
+  
 .notice {
     display: none;
     visibility: hidden;
